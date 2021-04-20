@@ -1,4 +1,5 @@
 Esse é um projeto que foi apresentado como trabalho de conclusão de curso para minha graduação em Geografia pela Universidade de Brasília.
+
 Trata-se de um portal web-gis que permite o Laboratório de Geografia Ambiente e Saúde da UnB compartilhar os dados espaciais produzidos por ele em monografias, dissertações, teses, pibics, dentre outros.
 
 Foi utilizado VueJs+Vuex, Axios e Mapbox.
