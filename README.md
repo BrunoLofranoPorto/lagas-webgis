@@ -6,6 +6,8 @@ Foi utilizado VueJs+Vuex, Axios e Mapbox.
 
 Os layers são fornecidos em formato geoJson pela api do IBGE
 
+A versão em desenvolvimento está disponível em http://35.199.91.135/
+
 # lagas-wg-frontend
 
 ## Project setup
