@@ -40,7 +40,7 @@ export default {
 
 	data() {
 		return {
-			accessKey: process.env.VUE_APP_MAPBOX_ACCESS_TOKEN
+			accessKey: process.env.VUE_APP_MAPBOX_ACCESS_TOKEN || "pk.eyJ1IjoiZmVsaXh4eGd1aWxoZXJtZSIsImEiOiJjazh0ZWk3bTIwNXEzM2dsMnB1OTVnNWZiIn0.8L6VugkL_G8wVdRNzuEskg"
 		}
 	},
 
