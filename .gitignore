@@ -2,6 +2,7 @@
 node_modules
 
 deploy.sh
+CNAME
 
 
 # local env files
