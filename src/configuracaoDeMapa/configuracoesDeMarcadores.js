@@ -176,3 +176,5 @@ const DadosTDM = [
     },
 
 ]
+
+export default DadosTDM
