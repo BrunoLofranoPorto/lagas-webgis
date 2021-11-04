@@ -64,11 +64,10 @@ export default {
 
 		layers: function () {
 			return this.$store.getters['layers']
+		},
+		markers: function () {
+			return DadosTDM.map(l => l)
 		}
-	},
-	
-	markers: function () {
-		return DadosTDM.map(l => l)
 	},
 
 	methods: {
